@@ -1,4 +1,4 @@
-![MasterHead](https://in.pinterest.com/pin/1058979299889584377/)
+![MasterHead](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)
 <h1 align="center">Hi 👋, I'm KAMAL HUSSAIN TAPPA</h1>
 <h3 align="center">Full-stack Next.js developer passionate about AI & Data Science. Merging modern web development with machine learning innovation</h3>
 <img align="right" alt="coder" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
