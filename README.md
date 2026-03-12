@@ -1,66 +1,69 @@
-<img src="https://github.com/TappaKamal/TappaKamal/blob/main/github-header-banner(1).png" />
+<img src="https://github.com/TappaKamal/TappaKamal/blob/main/github-header-banner(1).png"/>
 
 <h1 align="center">Hi 👋, I'm Kamal Hussain</h1>
-<h3 align="center">Full-Stack Developer | Next.js | AI & Data Science Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Next.js • React • Node.js</h3>
 
 <img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
-### 🚀 About Me
-
-- 🔭 Currently building **AI-powered Video Interview Platform**
-- 🌱 Learning **NLP, Computer Vision & Deep Learning**
-- 💻 Strong focus on **Next.js, Machine Learning & Scalable Web Apps**
-- 🧠 Passionate about **AI + Modern Web Development**
-- 📫 Reach me at **kamalhussaintappa09@gmail.com**
-- ⚡ Fun fact: *Calm mindset, creative builder*
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/kamalhussain-t">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<p align="center">
+Building scalable web applications and exploring modern AI technologies.
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-### 💻 Frontend
+* 💻 Full-Stack Developer experienced with **Next.js, React, Node.js, and Express**
+* 🗄 Skilled in **MySQL and MongoDB database systems**
+* ☁️ Working with **AWS, Docker, and cloud deployments**
+* 🧠 Interested in **Artificial Intelligence, NLP, and Computer Vision**
+* ⚙️ Passionate about building **scalable web platforms**
+* 🌱 Currently learning **Deep Learning & AI integrations**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css"/>
 </p>
 
-### ⚙️ Backend
+### Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
 </p>
 
-### 🧠 AI / Data Science
+### Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
-### 🗄 Databases
+### Cloud & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux"/>
 </p>
 
-### ☁️ DevOps & Tools
+### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,figma" />
+<img src="https://skillicons.dev/icons?i=postman,figma"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🔭 Current Work
+
+* Building a **Video Interview Platform**
+* Exploring **AI + Web Application integrations**
+* Learning **NLP and Computer Vision**
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tappakamal&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tappakamal&layout=compact&theme=tokyonight"/>
+⭐ Code • Build • Learn • Repeat
 </p>
