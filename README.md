@@ -1,23 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Kamal+Hussain;Full-Stack+Developer;Next.js+•+React+•+Node.js" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Kamal+Hussain;Full-Stack+Developer;Building+the+future+with+code+and+AI" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/TappaKamal/TappaKamal/blob/main/github-header-banner(1).png" alt="GitHub Header" />
+  <img src="https://github.com/TappaKamal/TappaKamal/blob/main/github-header-banner(1).png" alt="GitHub Header" width="100%" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 💻 **Full-Stack Developer**   Next.js • React • Node.js
-- 🗄 **Databases**: MySQL, MongoDB, PostgreSQL
+## **💡 About Me**
+I’m a **Full-Stack Developer** passionate about building **scalable web applications** and exploring **AI integrations**. I thrive at the intersection of **code, design, and innovation**, with a focus on **user-centric solutions**.
+
+- 🌐 **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- 🔧 **Backend**: Node.js, Express, Python
+- 🗄 **Databases**: MongoDB, MySQL, PostgreSQL
 - ☁️ **Cloud & DevOps**: AWS, Docker, Git, Linux
-- 🧠 **AI Enthusiast**: NLP, Computer Vision, Deep Learning
-- 🌱 **Currently Learning**: AI + Web Integrations
+- 🤖 **AI & ML**: NLP, Computer Vision, Deep Learning
 
 ---
 
-## 🛠 **Tech Stack**
+## **🛠 Tech Stack**
 
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -40,50 +42,47 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## **🔭 Current Focus**
+- 🎥 **Building a Video Interview Platform** (Next.js, Node.js, AWS)
+- 🤖 **Exploring AI + Web Integrations** (NLP, Computer Vision)
+- 📚 **Learning Deep Learning & AI Models**
 
 ---
 
-## 🔭 **Current Work**
-- 🎥 **Building a Video Interview Platform**
-- 🤖 **Exploring AI + Web Application Integrations**
-- 📚 **Learning NLP and Computer Vision**
-
----
-
-## 📊 **GitHub Stats**
+## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TappaKamal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TappaKamal&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TappaKamal&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TappaKamal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TappaKamal&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TappaKamal&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🌟 **Featured Projects**
- | Project | Description | Tech Stack |
- |---------|-------------|------------|
- | [Video Interview Platform](link-to-project) | A platform for conducting video interviews | Next.js, Node.js, AWS |
- | [AI Chatbot](link-to-project) | A chatbot powered by NLP | Python, React, TensorFlow |
+## **🌟 Featured Projects**
+   **Project** | **Description** | **Tech Stack** |
+ |-------------|----------------|----------------|
+ | [Video Interview Platform](https://github.com/TappaKamal/video-interview-platform) | A platform for conducting AI-powered video interviews | Next.js, Node.js, AWS, MongoDB |
+ | [AI Chatbot](https://github.com/TappaKamal/ai-chatbot) | A chatbot with NLP capabilities | Python, React, TensorFlow |
+ | [Portfolio Website](https://kamalhsn.vercel.app/) | My personal portfolio | Next.js, Tailwind CSS |
 
 ---
 
-## 🤝 **Let's Connect**
+## **🤝 Let’s Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/kamal-hussain-tappa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/kamalhsn" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kamal@tappa.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 <p align="center">
-  ⭐ **Code • Build • Learn • Repeat**
+  <em>⭐ Code. Build. Innovate. Repeat.</em>
 </p>
