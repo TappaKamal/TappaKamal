@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Kamal Hussain Tappa 👋</h1>
+<h1 align="center">Hi there, I'm Kamal Hussain 👋</h1>
 <h3 align="center">Data Engineer & Full-Stack Developer</h3>
 
 ### 🧩 About Me
 💼 I am a **Data Engineer & Full-Stack Developer**, bridging scalable backend data architectures with ultra-fast, modern web interfaces.
 🌱 Currently building robust applications with **Next.js**, architecting real-time data pipelines, and optimizing serverless environments.
 ⚙️ Passionate about high-performance clean code, cloud systems, and integrating AI and Machine Learning models.
-🎓 Pursuing a B.Tech in Artificial Intelligence and Data Science at KL University (CGPA: 9.77/10).
+
 
 ### 🧰 Skills Overview
 
